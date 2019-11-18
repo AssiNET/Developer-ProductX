@@ -1,1 +1,2 @@
-sleep(10)
+import time
+time.sleep(10)
