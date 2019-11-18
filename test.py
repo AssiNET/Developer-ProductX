@@ -1,1 +1,0 @@
-print('This is developer repository')
