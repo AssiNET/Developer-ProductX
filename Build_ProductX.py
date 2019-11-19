@@ -1,2 +1,2 @@
 import time
-time.sleep(19)
+time.sleep(18)
