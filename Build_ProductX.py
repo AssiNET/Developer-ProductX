@@ -1,2 +1,2 @@
 import time
-time.sleep(17)
+time.sleep(15)
